@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="cu">
+        <h2>Contact us</h2>
+    </div>
+   <div id="us-div">
+    <form>
+        <p><input type="text" class="input-control" value="Name:"></input></p> 
+        <p><input type="text" class="input-control" value="Pasword:"></input></p> 
+        <p><input type="text" class="input-control" value="Email Address:"></input></p> 
+        <p><input type="number" class="input-control" value="Contact:"></input></p> 
+         <button id="btn-submit">Submit</button>
+     </form>
+     <div id="btt">
+        <button><a href="Home.html">Back to Home</a></button>
+     </div>
+   </div>
+   <a href="{% url 'home_page' %}">home</a>
+</body>
+</html>

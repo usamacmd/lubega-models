@@ -1,0 +1,173 @@
+h1{
+    color: whitesmoke;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ h2{
+     color: whitesmoke;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ body{
+     background-color: rgb(144, 228, 231);
+     background-attachment: fixed;
+ }
+ 
+ #main-content{
+     margin: 50px;
+     padding: 5px;
+ }
+ 
+ #sec-div{
+     background-color: lemonchiffon;
+     padding: 10px;
+ }
+ 
+ #image1{
+    height: 30%;
+    border-radius: 50px;
+    border: rgb(214, 149, 192) 2px solid;
+ }
+ 
+ #images{
+     height: 30%;
+    border-radius: 50px;
+    border: rgb(214, 149, 192) 2px solid;
+ }
+ 
+ #ser-div{
+     background-color: lemonchiffon;
+     padding: 10px;
+ }
+ 
+ #table-div,ble-div{
+     background-color: lemonchiffon;
+     padding: 10px;
+ }
+ 
+ #ble-div{
+     background-color: lemonchiffon;
+     padding: 10px;
+ }
+ 
+ #igm{
+     height: 30%;
+     border-radius: 50px;
+     border: rgb(214, 149, 192) 2px solid;  
+ }
+ 
+ #bd{
+     background-color: rgb(209, 192, 39);
+ }
+ 
+ #bb{
+     background-color: whitesmoke;
+     padding: 10px;
+ }
+ p{
+     background-color:brown;
+     font-family: 'Times New Roman', Times, serif;
+     text-justify: auto;
+ }
+ 
+ #os{
+     background-color: rgb(209, 192, 39); 
+ }
+ 
+ #og{
+     background-color: rgb(209, 192, 39)
+ }
+ 
+ #cu{
+     background-color: rgb(209, 192, 39) 
+ }
+ #bh{
+     background-color:gray;
+     padding: 10px;
+ }
+ 
+ #btt{
+     background-color: whitesmoke;
+     padding: 10px;
+ }
+ 
+ #bl{
+     background-color: blueviolet;
+     padding: 10px;
+ }
+ 
+ #om{
+     text-align: center;
+     font-size: x-large;
+  }
+ 
+  #windows{
+     height: 30%;
+     border-radius: 50px;
+     border: rgb(214, 149, 192) 2px solid;
+  }
+ 
+  #bup{
+  height: 30%;
+     border-radius: 50px;
+     border: rgb(214, 149, 192) 2px solid;
+  }
+ 
+  #pft{
+     background-color: blueviolet;
+     padding: 10px;
+  }
+ 
+  #us-div{
+     background-color: brown;
+     padding: 10px;
+  }
+ 
+ #blaz{
+     height: 30%;
+     border-radius: 50px;
+     border: rgb(214, 149, 192) 2px solid;   
+ }
+ .input-control{
+     height: 25px;
+     width: 350px;
+     border: rgb(214, 149, 192) 2px solid;
+     border-radius: 5px;
+ }
+ 
+ #btn-submit{
+     height: 25px;
+     width: 350px;
+     border-radius: 5px;
+     font-size:medium ;
+     color: whitesmoke;
+     background-color: slategrey;
+ }
+ 
+ #header-div{
+     height: 50px;
+     padding: 5px;
+     background-color: chocolate;
+ }
+ 
+ #menu-div{
+     background-color: whitesmoke;
+     border-radius: 10px;
+     border: rgb(88, 23, 63) 2px solid;
+     float: right;
+     padding: 5px;
+ }
+ 
+ #pd{
+     padding: 5px;  
+ }
+ 
+ #ton{
+     background-color:wheat;
+     border-radius: 10px;
+     font-size: medium;
+ }
+ 
+ #title-div{
+     float: left;
+ }
